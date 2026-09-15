@@ -1,0 +1,8 @@
+{
+  "name": "Subway Surfers 3D",
+  "description": "High-speed 3D endless runner with smooth lane switching, jumping, sliding, hoverboards, power-ups, and vibrant procedurally generated subway tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
