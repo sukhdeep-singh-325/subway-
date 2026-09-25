@@ -251,7 +251,7 @@ export const SettingsModal: React.FC<SettingsModalProps> = ({
             <div className="text-[10px] text-slate-400 flex items-center justify-between pt-1.5 border-t border-slate-800/80">
               <span>
                 {swapLeftRightControls
-                  ? 'Active: Left (<) moves Right, Right (>) moves Left'
+                  ? 'Active: Left (<) moves Left, Right (>) moves Right'
                   : 'Normal: Left (<) moves Left, Right (>) moves Right'}
               </span>
               <span className={`font-mono text-[10px] px-1.5 py-0.5 rounded border ${
@@ -277,3 +277,4 @@ export const SettingsModal: React.FC<SettingsModalProps> = ({
     </div>
   );
 };
+
